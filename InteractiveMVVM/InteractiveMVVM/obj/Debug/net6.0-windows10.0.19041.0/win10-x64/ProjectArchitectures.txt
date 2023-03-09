@@ -1,0 +1,1 @@
+C:\Users\paulf\Desktop\Theo\InteractiveMVVM\InteractiveMVVM\InteractiveMVVM.csproj;x64

@@ -1,0 +1,1 @@
+C:\Users\paulf\Desktop\Theo\SimpleMVVM\SimpleMVVM\SimpleMVVM.csproj;x64
